@@ -1,13 +1,13 @@
-
-# Spices Market Sizing for JG Spices
+# Projects
+## Spices Market Sizing for JG Spices
 Canadian Market Sizing for Spices, Agro Products, and Oil Seeds Project Outline
 
-## 1. Introduction
+### 1. Introduction
 - **Project Overview**
 - **Objectives**
 - **Scope and Limitations**
 
-## 2. Methodology
+### 2. Methodology
 - **Data Collection Methods**
 - **Population Demographics Analysis**
 - **Ground Research and Surveys**
@@ -19,7 +19,7 @@ Canadian Market Sizing for Spices, Agro Products, and Oil Seeds Project Outline
   - Surveys and Field Research
   - Industry Reports and Import Data
 
-## 3. Target Audience Analysis
+### 3. Target Audience Analysis
 - **Demographic Profile**
 - **Population of Indian and Pakistani Communities in Canada**
 - **Geographic Distribution by Province and FSA**
@@ -30,7 +30,7 @@ Canadian Market Sizing for Spices, Agro Products, and Oil Seeds Project Outline
   - Indian Grocery Stores and Restaurants
 - **Population and Distribution Analysis**
 
-## 4. Retail and Supply Chain Analysis
+### 4. Retail and Supply Chain Analysis
 - **Inventory Analysis**
 - **Spice Varieties and Quantities**
 - **Supplier and Importer Analysis**
@@ -38,14 +38,14 @@ Canadian Market Sizing for Spices, Agro Products, and Oil Seeds Project Outline
 - **Import Volume from India**
 - **Market Share by Region and Spice Type**
 
-## 5. Market Demand and Import Analysis
+### 5. Market Demand and Import Analysis
 - **Demand Estimation for Spices**
   - By Community and Geographic Area
 - **Import Analysis**
   - Total Volume and Value of Spices Imported
   - Share of Indian Imports in the Canadian Market
 
-## 6. Data Analytics and Pipeline Development
+### 6. Data Analytics and Pipeline Development
 - **Data Collection Framework**
 - **Automated Data Pipelines for Continuous Data Gathering**
 - **Data Analysis Tools and Techniques**
@@ -53,23 +53,23 @@ Canadian Market Sizing for Spices, Agro Products, and Oil Seeds Project Outline
 - **Updating and Maintenance Schedule**
   - Frequency of Data Refresh and Analysis Update
 
-## 7. Survey Design and Implementation
+### 7. Survey Design and Implementation
 - **Survey Objective and Design**
 - **Questionnaire Development**
 - **Distribution Strategy**
   - College Groups and Community Centers in Dense Areas
 - **Data Collection and Analysis Plan**
 
-## 8. Conclusion
+### 8. Conclusion
 - **Summary of Findings**
 - **Strategic Implications for Spice Importers and Retailers**
 
-## 9. Appendices
+### 9. Appendices
 - **Survey Questionnaire**
 - **Data Collection Templates**
 - **Detailed Geographic Distribution Maps**
 
-## 10. References
+### 10. References
 - **List of Data Sources and Bibliography**
 
 ### Key Considerations for Implementation:

@@ -1,5 +1,5 @@
 site_name: QA Tech Ventures Guides & Resources
-site_url: https://james-willett.github.io/mkdocs-material-youtube-tutorial/
+site_url: https://qatechventures.com
 theme:
   name: material
   features:
@@ -19,13 +19,13 @@ theme:
         icon: material/toggle-switch-off-outline 
         name: Switch to dark mode
       primary: teal
-      accent: purple 
+      accent: black 
     - scheme: slate 
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode    
-      primary: teal
-      accent: lime
+      primary: black
+      accent: orange
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -47,12 +47,12 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/brands/github-alt
-      link: https://github.com/james-willett
+      link: https://github.com/QAVentures
     - icon: fontawesome/brands/twitter
-      link: https://twitter.com/TheJamesWillett
-    - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/willettjames/
+      link: https://twitter.com/bojrick0426
+    # - icon: fontawesome/brands/linkedin
+    #   link: https://www.linkedin.com/in/willettjames/
 
 
 copyright: |
-  &copy; 2023 <a href="https://github.com/james-willett"  target="_blank" rel="noopener">James Willett</a>
+  &copy; 2023 <a href="https://github.com/QAVentures"  target="_blank" rel="noopener">QATechVentures</a>
