@@ -5,13 +5,14 @@
 #### Project: Project Alpha
 
 - **Project Lead:** Yash Patel
-- **Analysts:** Yash Patel
-- **Developers:** Umang Chaudhary, Dhyanesh Panchal
+- **Analysts:** Umang Chaudhary, Dhyanesh Panchal
+- **Developers:** 
 ##### **Open Tasks:**
   - [ ] Task 1: Quantify the region where quantity of indian people in canada are higher (Due: March 6, 2024)
   - [ ] Task 2: finding Indian restorants in those region  (Due: March 8, 2024)
 ##### **Completed Tasks:**
   - Task 1
+  - Task 2
 
 ### Week 11 (March 11, 2024 - March 17, 2024)
 
