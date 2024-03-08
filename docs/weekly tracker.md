@@ -4,14 +4,14 @@
 
 #### Project: Project Alpha
 
-- **Project Lead:** John Doe
-- **Analysts:** Jane Smith, Alex Johnson
-- **Developers:** Mike Brown, Emily Davis
+- **Project Lead:** Yash Patel
+- **Analysts:** Yash Patel
+- **Developers:** Umang Chaudhary, Dhyanesh Panchal
 ##### **Open Tasks:**
-  - [ ] Task 1: Define project scope (Due: March 6, 2024)
-  - [ ] Task 2: Initial system architecture design (Due: March 8, 2024)
+  - [ ] Task 1: Quantify the region where quantity of indian people in canada are higher (Due: March 6, 2024)
+  - [ ] Task 2: finding Indian restorants in those region  (Due: March 8, 2024)
 ##### **Completed Tasks:**
-  - None
+  - Task 1
 
 ### Week 11 (March 11, 2024 - March 17, 2024)
 
