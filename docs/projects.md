@@ -9,6 +9,40 @@ Canadian Market Sizing for Spices, Agro Products, and Oil Seeds Project Outline
 
 ### 2. Methodology
 - **Data Collection Methods**
+  - **Indian Restraunts and Indian Groceries Store**: It is collected using OutScraper's Google Maps API
+  Wrapper Functon for Querying Specific Location Data for google maps.
+  ```py
+  def fetch_query(queries: list, locations: list, country: str, limit: int):
+    '''
+    This function fetches the Google Maps Data for the given Query and location.
+    params:
+    queries -> Thsi is the list of the queries for which search will be performed.
+    locations -> locations to be searched.
+    country -> country of search location.
+    limit -> The Max limit for the OutScraper API to fetch results.
+
+    '''
+    # Initiate the OutScraper Client.
+    client = ApiClient(api_key)
+    print("client created succesfully.")
+    try:
+        # Final Data array
+        data = []
+
+        # Iterating over multiple queries.
+        for query in queries:
+            query_scpecific_data = []
+            for location in tqdm(locations, desc=f"QUERY: {query}"):
+                resp = (client.google_maps_search(
+                    f'{query}, {location}', region=country, limit=limit))
+                query_scpecific_data.extend(resp[0])
+            data.append(query_scpecific_data)
+    except Exception as e:
+        print(e)
+    return data
+  ```
+  - Here the 
+
 - **Population Demographics Analysis**
 - **Ground Research and Surveys**
 - **Inventory Analysis at Retail Outlets**
@@ -18,6 +52,7 @@ Canadian Market Sizing for Spices, Agro Products, and Oil Seeds Project Outline
   - Government and Public Records
   - Surveys and Field Research
   - Industry Reports and Import Data
+  - Google Maps
 
 ### 3. Target Audience Analysis
 - **Demographic Profile**
