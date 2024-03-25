@@ -84,34 +84,36 @@
 - **Analysts:** Umang Chaudhary, Dhyanesh Panchal
 - **Developers:** 
 - **Open Tasks:**
-  - [ ] Task 3: Setup development environment (Due: March 13, 2024)
-  - [ ] Task 4: Begin coding of core modules (Due: March 17, 2024)
+  - [ ] Task 3: 
+  - [ ] Task 4: 
 - **Completed Tasks:**
   - None
 
 ### Week 12 (March 18, 2024 - March 24, 2024)
 
-#### Project: Project Alpha
+#### Project: Demand Forecasting of Various Indian Exports in North America
 
-- **Project Lead:** John Doe
-- **Analysts:** Jane Smith, Alex Johnson
-- **Developers:** Mike Brown, Emily Davis
+- **Project Lead:** Yash Patel
+- **Analysts:** Umang Chaudhary, Dhyanesh Panchal
+- **Developers:**
+
 - **Open Tasks:**
-  - [ ] Task 5: Code review and testing of core modules (Due: March 20, 2024)
-  - [ ] Task 6: Database schema design (Due: March 22, 2024)
+  - [ ] Task 5: 
+  - [ ] Task 6: 
 - **Completed Tasks:**
   - None
 
 ### Week 13 (March 25, 2024 - March 31, 2024)
 
-#### Project: Project Alpha
+#### Project: Demand Forecasting of Various Indian Exports in North America
 
-- **Project Lead:** John Doe
-- **Analysts:** Jane Smith, Alex Johnson
-- **Developers:** Mike Brown, Emily Davis
+- **Project Lead:** Yash Patel
+- **Analysts:** Umang Chaudhary, Dhyanesh Panchal
+- **Developers:**
+
 - **Open Tasks:**
-  - [ ] Task 7: Implementation of user authentication (Due: March 27, 2024)
-  - [ ] Task 8: Front-end UI/UX design (Due: March 29, 2024)
+  - [ ] Task 7:
+  - [ ] Task 8: 
 - **Completed Tasks:**
   - None
 
