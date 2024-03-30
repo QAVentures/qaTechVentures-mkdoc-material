@@ -12,6 +12,7 @@ Canadian Market Sizing for Spices, Agro Products, and Oil Seeds Project Outline
   - **Indian Restraunts and Indian Groceries Store**: It is collected using OutScraper's Google Maps API
   Wrapper Functon for Querying Specific Location Data for google maps.
   ```py
+
   def fetch_query(queries: list, locations: list, country: str, limit: int):
     '''
     This function fetches the Google Maps Data for the given Query and location.
