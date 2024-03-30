@@ -4,11 +4,11 @@ Market sizing for all construction projects in Gujrarat.
 
 ### 1. Introduction
 - **Project Overview** :
-- The project aims to analyze the construction projects in Gujrarat and provide insights into the market size, profit margin etc. The data is extracted from the Gujrera website and transformed into a format that can be used for analysis.
+    - The project aims to analyze the construction projects in Gujrarat and provide insights into the market size, profit margin etc. The data is extracted from the Gujrera website and transformed into a format that can be used for analysis.
 - **Objectives** :
-- Demand Forecasting for constructions projects in Gujrarat.
+    - Demand Forecasting for constructions projects in Gujrarat.
 - **Scope and Limitations** : 
-- The scope of this project is to analyze the construction projects in Gujrarat and provide insights into the market size, profit margin etc.
+    - The scope of this project is to analyze the construction projects in Gujrarat and provide insights into the market size, profit margin etc.
 
 ### 2. Methodology
 - **Data Collection Methods**
