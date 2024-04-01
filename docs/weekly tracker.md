@@ -102,11 +102,12 @@
 - **Open Tasks:**
    
 - **Completed Tasks:**
-  - Task 1 : Made streamlit app for dynamic dashboard of gujrera data 
-          - made streamlit app
-          - deployed on stremlit cloud
-          - added 2 grphs with respect to project type
-          - made efficient to run the app faster 
+  - Task 1 :
+      -  Made streamlit app for dynamic dashboard of gujrera data 
+      - made streamlit app
+      - deployed on stremlit cloud
+      - added 2 grphs with respect to project type
+      - made efficient to run the app faster 
 
 
 ### Week 15 (March 8, 2024 - March 14, 2024)
