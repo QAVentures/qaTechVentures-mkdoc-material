@@ -48,6 +48,13 @@ Market sizing for all construction projects in Gujrarat.
     [Gift City](https://docs.google.com/spreadsheets/d/1GivZBFlTMx0hIRdcI0ttp6YpqWgKwDtUQBVN8dC7h9Y/edit?usp=sharing)
 
 
+### 3. Dashboard for Gujrera Analysis
+- **Dashboard**
+    - A dashboard is created using Streamlit to visualize the insights generated from the data.
+    - The dashboard is made dynamic and deployed on streamlit cloud. 
+    [Dashboard](https://gujera-analysis.streamlit.app/)
+ 
+
 
 
 

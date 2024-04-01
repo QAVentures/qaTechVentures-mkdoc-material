@@ -2,7 +2,7 @@
 
 ### Week 1,2 (January 1, 2024 - January 14, 2024)
 
-#### Project:  Demand Forecasting of Various Indian Exports in North America
+#### Project:  Gujrera Analysis, Chemical Analysis
 
 - **Project Lead:** Yash Patel
 - **Analysts:** Umang Chaudhary, Dhyanesh Panchal
@@ -11,13 +11,15 @@
   -  Task 1: Implementing Parallel processing for updated Gujrera Script
 ##### **Completed Tasks:**
   - Task 1: Perform Web scraping using Selenium library for Gujrera Website (Umang)
+        - decided to go with request and beutiful soup library 
+
   - Task 2: Web scarping for chemical website  (Dhyanesh)
 
 
 
 ### Week 3,4,5,6 (January 15, 2024 - February 11, 2024)
 
-#### Project:  Demand Forecasting of Various Indian Exports in North America
+#### Project:  Gujrera Analysis, Chemical Analysis
 
 - **Project Lead:** Yash Patel
 - **Analysts:** Umang Chaudhary, Dhyanesh Panchal
@@ -36,7 +38,7 @@
 
 ### Week 7,8 (January 12, 2024 - February 25, 2024)
 
-#### Project:  Demand Forecasting of Various Indian Exports in North America
+#### Project: Gujrera Analysis, Chemical Analysis
 
 - **Project Lead:** Yash Patel
 - **Analysts:** Umang Chaudhary, Dhyanesh Panchal
@@ -51,7 +53,7 @@
 
 ### Week 9, (February 26, 2024 - March 03, 2024)
 
-#### Project: Demand Forecasting of Various Indian Exports in North America
+#### Project: KSY group website 
 
 - **Project Lead:** Yash Patel
 - **Analysts:** Umang Chaudhary, Dhyanesh Panchal
@@ -65,7 +67,7 @@
 
 ### Week 10 (March 4, 2024 - March 10, 2024)
 
-#### Project: Demand Forecasting of Various Indian Exports in North America
+#### Project: Spices analysis 
 
 - **Project Lead:** Yash Patel
 - **Analysts:** Umang Chaudhary, Dhyanesh Panchal
@@ -76,9 +78,9 @@
   -  Task 1: Quantify the region where quantity of indian people in canada are higher (https://docs.google.com/spreadsheets/d/1pGXh3u4YjWVulfF-tt1-ZYfXMA1JtYjzqCFUCM1miy0/edit?usp=sharing)
   -  Task 2: finding Indian restorants in those region  
 
-### Week 11 (March 11, 2024 - March 17, 2024)
+### Week 11,12,13 (March 11, 2024 - March 31, 2024)
 
-#### Project: Demand Forecasting of Various Indian Exports in North America
+#### Project: Electrol Bond Analysis
 
 - **Project Lead:** Yash Patel
 - **Analysts:** Umang Chaudhary, Dhyanesh Panchal
@@ -89,32 +91,23 @@
   - Task 1: Extracted the data of Electrol bonds from 2 pdfs and merge the data by their bond id 
   - Task 2: Pushed the data into big query
 
-### Week 12 (March 18, 2024 - March 24, 2024)
+### Week 14(April 1, 2024 - April 7, 2024)
 
-#### Project: Demand Forecasting of Various Indian Exports in North America
-
-- **Project Lead:** Yash Patel
-- **Analysts:** Umang Chaudhary, Dhyanesh Panchal
-- **Developers:**
-
-- **Open Tasks:**
-  - [ ] Task 5: 
-  - [ ] Task 6: 
-- **Completed Tasks:**
-  - None
-
-### Week 13 (March 25, 2024 - March 31, 2024)
-
-#### Project: Demand Forecasting of Various Indian Exports in North America
+#### Project: Gujrera Analysis
 
 - **Project Lead:** Yash Patel
 - **Analysts:** Umang Chaudhary, Dhyanesh Panchal
 - **Developers:**
 
 - **Open Tasks:**
-  - [ ] Task 7:
-  - [ ] Task 8: 
+   
 - **Completed Tasks:**
-  - None
+  - Task 1 : Made streamlit app for dynamic dashboard of gujrera data 
+          - made streamlit app
+          - deployed on stremlit cloud
+          - added 2 grphs with respect to project type
+          - made efficient to run the app faster 
 
+
+### Week 15 (March 8, 2024 - March 14, 2024)
 
