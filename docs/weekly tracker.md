@@ -112,3 +112,42 @@
 
 ### Week 15 (March 8, 2024 - March 14, 2024)
 
+### Week 15(April 8, 2024 - April 14, 2024)
+
+#### Project: Gujrera Analysis
+
+- **Project Lead:** Yash Patel
+- **Analysts:** Umang Chaudhary, Dhyanesh Panchal
+- **Developers:**
+
+- **Open Tasks:**
+   
+- **Completed Tasks:**
+  - Task 1 : Added more charts in the gujrera dashboard 
+      -  Yearly Carpet Area Analysis over the years
+      -  Yearly flat count Analysis over the years
+      -  stacked bar chart for carpet area and balcony area
+      -  stacked bar chart for booking status
+      -  selling price analysis chart over the years
+      -  redevlopment project analysis pie chart
+      -  carpet area line chart for all months over the years
+      -  flat counts line chart for all months over the years
+      -  Average project cost line chart for all months over the years
+      -  bar chart for comparison of selling price with balance and received amount
+      -  stacked bar chart for encumberance 
+      
+
+  - Task 2 : 
+      -  Connected to remote server made by Yash patel
+      -  Deployed ETL pipeline on Apache Airflow on remote server
+      -  To work successfully on remote server, made changes in the code in Transform and Load file
+
+  - Task 3 : 
+      - Made a map chart of Gujarat state with the help of geojson of Gujarat state
+      - In that map chart added district name and count of total projects in that district
+
+
+
+
+### Week 15 (March 8, 2024 - March 14, 2024)
+
