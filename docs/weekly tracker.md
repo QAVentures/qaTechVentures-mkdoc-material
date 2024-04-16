@@ -110,7 +110,6 @@
       - made efficient to run the app faster 
 
 
-### Week 15 (March 8, 2024 - March 14, 2024)
 
 ### Week 15(April 8, 2024 - April 14, 2024)
 
